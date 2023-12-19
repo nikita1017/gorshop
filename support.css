@@ -51,3 +51,34 @@ main{
     margin-top: 60px;
     text-align: center;
 }
+
+.supportText{
+    margin: auto;
+    width: 60%;
+    height: 400px;
+    background: #112434;
+    border-radius: 60px;
+}
+
+.info{
+    display: inline-block;
+    /* background: #fff; */
+    /* padding: 15px; */
+    margin-top: 30px;
+}
+
+.info h2{
+    color: rgb(163, 161, 161);
+}
+
+.discordInfo{
+    color: rgb(163, 161, 161);
+    margin-top: 60px;
+    text-align: left;
+}
+
+.paragraphCenter{
+    margin-top: 30px;
+    text-align: left;
+    color: rgb(163, 161, 161);
+}
